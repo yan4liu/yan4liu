@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 </picture>
 
 #### 💻 Todo/Done
-- Looking at：https://github.com/yan4liu/yan4liu/blob/main/Projects.md
+- Looking at：https://github.com/yan4liu/yan4liu/blob/main/README.md
 - Million-word notes(private)：https://github.com/yan4liu/vsNotes
+- 
 
 #### 🌏 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yan4liu&layout=compact)
